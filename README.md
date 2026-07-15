@@ -38,8 +38,7 @@ The project includes:
 | MySQL | Database Design & SQL Analysis |
 | Power BI | Dashboard Development |
 | Git & GitHub | Version Control |
-| Visual Studio Code | Development |
-| Excel / CSV | Source Dataset |
+| CSV | Source Dataset |
 
 ---
 
